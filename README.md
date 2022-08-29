@@ -40,7 +40,7 @@ Best performing Salesperons
 
 Best Customers
 
-![image](https://user-images.githubusercontent.com/107176991/187203086-e7b1573f-1e5e-4d86-be40-80a721fbfebc.png)
+![image](https://user-images.githubusercontent.com/107176991/187209430-4d45e73a-82e3-4d24-b342-f686470c13a4.png)
 
 Monthly Sales Trend: 2018 monthly saleswere higher than 2017 monthly sales
 
