@@ -47,4 +47,4 @@ Monthly Sales Trend: 2018 monthly saleswere higher than 2017 monthly sales
 
 Weekend had more sales than other weekdays
 
-![image](https://user-images.githubusercontent.com/107176991/187205779-03562c31-5b17-437d-9975-b18f7fbf0144.png)
+![image](https://user-images.githubusercontent.com/107176991/187209873-cb3388d8-0145-4fa3-9ff7-6a25e31fb2cf.png)
