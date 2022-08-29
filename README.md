@@ -12,6 +12,8 @@ An excel file which contained 5 worksheet was supplied. The worksheets contained
 - Data Tranformation
 - Creation Dax measures and Calculated columns
 - Data Modelling
+![image](https://user-images.githubusercontent.com/107176991/187208896-4a843cad-510e-49da-a019-47590ef52412.png)
+
 - Data Visualization
 ## Insights
 ### KPIs
