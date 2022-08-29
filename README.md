@@ -17,7 +17,9 @@ An excel file which contained 5 worksheet was supplied. The worksheets contained
 ### KPIs
 The total sales from Jan-2017 to Sept-2018 is $14.44M. The company have 501 customers, 50 stores, 45 salespersons and they sell 35 products.
 ![KPI](https://user-images.githubusercontent.com/107176991/187200678-0606b3cb-3653-483a-accf-14bb9a02724f.png)
+
 Downtown stores generated 57% of total sales
 ![Stores](https://user-images.githubusercontent.com/107176991/187200966-0e685797-aa93-43eb-828d-c8992090f7fa.png)
+
 Toy products generated the highest proportion of sales(35% of total sales)
 ![Products](https://user-images.githubusercontent.com/107176991/187201239-10b290c5-12e8-401d-b456-c1cbe364bf18.png)
