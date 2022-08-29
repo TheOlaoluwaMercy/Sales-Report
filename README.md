@@ -26,10 +26,9 @@ Toy products generated the highest proportion of sales(35% of total sales)
 
 ![Products](https://user-images.githubusercontent.com/107176991/187201239-10b290c5-12e8-401d-b456-c1cbe364bf18.png)
 
-Best performing Stores and cities
+Best performing Stores and Cities
 
-![stores and cities](https://user-images.githubusercontent.com/107176991/187202025-d38c69d5-97e8-429a-be51-546e603ab5eb.png)
-
+![image](https://user-images.githubusercontent.com/107176991/187209679-7351803e-d7a0-46af-99c9-99b0bbea4a13.png)
 Best performing Products
 
 ![Best perfoming product](https://user-images.githubusercontent.com/107176991/187202392-800510ac-cd5d-44ae-9536-8b6820ff9517.png)
